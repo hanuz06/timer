@@ -17,3 +17,5 @@ let timer = time => {
 };
 
 timer(timeInt);
+
+`setting timer for ${key} time`
